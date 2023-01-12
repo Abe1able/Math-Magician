@@ -32,33 +32,27 @@
 ### Tech Stack <a name="tech-stack"></a>
 
 
-<details>
-  <summary>HTML<summary>
+
   <ul>
     <li><a href="#">HTML</a></li>
   </ul>
-</details>
 
-<details>
-  <summary>CSS<summary>
   <ul>
     <li><a href="#">CSS</a></li>
   </ul>
-</details>
 
-<details>
-  <summary>JavaScript<summary>
+
+
   <ul>
     <li><a href="#">JavaScript</a></li>
   </ul>
-</details>
 
-<details>
-  <summary>React.js<summary>
+
+
   <ul>
     <li><a href="https://reactjs.org/">React.js</a></li>
   </ul>
-</details>
+
 
 ### Key Features <a name="key-features"></a>
 
