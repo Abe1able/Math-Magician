@@ -17,7 +17,6 @@
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
 
@@ -34,24 +33,28 @@
 
 
 <details>
+  <summary>HTML<summary>
   <ul>
     <li><a href="#">HTML</a></li>
   </ul>
 </details>
 
 <details>
+  <summary>CSS<summary>
   <ul>
     <li><a href="#">CSS</a></li>
   </ul>
 </details>
 
 <details>
+  <summary>JavaScript<summary>
   <ul>
     <li><a href="#">JavaScript</a></li>
   </ul>
 </details>
 
 <details>
+  <summary>React.js<summary>
   <ul>
     <li><a href="https://reactjs.org/">React.js</a></li>
   </ul>
@@ -176,21 +179,6 @@ I would like to thank...
 
 - Microverse 
 - My coding partners, morning session team, and standup team for their contributions.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
-
-- **[Question_1]**
-
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
