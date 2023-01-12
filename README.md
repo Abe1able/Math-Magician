@@ -1,7 +1,7 @@
-# Math-Magician
+# Math-Magicians
 
 
-> This project is Math-Magician, an app, that allows users to make simple calculations and get random math-related quotes.
+> This project is Math-Magicians, an app, that allows users to make simple calculations and get random math-related quotes.
 
 ## Built With
 
@@ -32,7 +32,7 @@ To run the project, use the command `npm start`
 
 ### Link to Repo
 
-[Math-Magician](https://abe1able.github.io/Math-Magician/)
+[Math-Magicians](https://abe1able.github.io/Math-Magicians/)
 
 ## Author
 
@@ -45,7 +45,7 @@ To run the project, use the command `npm start`
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
-Feel free to check the [issues page](https://github.com/Abe1able/Math-Magician/issues)
+Feel free to check the [issues page](https://github.com/Abe1able/Math-Magicians/issues)
 
 ## Show your support
 
