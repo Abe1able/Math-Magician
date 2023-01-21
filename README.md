@@ -67,7 +67,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
+- [Live Demo Link](https://abe1able-math-magicians.onrender.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
